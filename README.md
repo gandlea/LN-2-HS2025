@@ -4,6 +4,6 @@ Childhood vaccination coverage
 ## Team
 
 Am Projekte arbeiten
-grandlea@students.zhaw.ch
-marxebri@students.zhaw.ch
-solcaene@students.zhaw.ch
+-grandlea@students.zhaw.ch
+-marxebri@students.zhaw.ch
+-solcaene@students.zhaw.ch
