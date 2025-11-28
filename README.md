@@ -8,6 +8,8 @@ Am Projekte arbeiten:
 - marxebri@students.zhaw.ch
 - solcaene@students.zhaw.ch
 
+## Projektidee
+
 ## 1. Fragestellungen und Datenbeschaffung
 ### 1.1 Titel:
 - Childhood vaccination coverage
