@@ -5,7 +5,7 @@ Leistungsnachweis Python BMLD Informatik 1
 
 Am Projekte arbeiten:
 - Léa Grandchamp (grandlea@students.zhaw.ch)
-- Brigit Marxe (marxebri@students.zhaw.ch)
+- Brigit Marxer (marxebri@students.zhaw.ch)
 - Enea Solca (solcaene@students.zhaw.ch)
 
 ## Projektidee
